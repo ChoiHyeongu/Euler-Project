@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/drone-simulator/mint_ws/install/setup.sh
